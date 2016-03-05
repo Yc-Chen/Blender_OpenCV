@@ -28,3 +28,7 @@ This tool is built under the environment of OpenCV 2.4.10 and Blender 2.69. Open
 ```blender --background -P read_and_proctex.py```
 
 A blender file 'mycoin.blend' will appear in the same folder. Enjoy!
+
+> Thanks to the support from [IdeeënLab](http://www.ideeenlab.nl/)!
+
+> For more stories behind the codes: [A Commemorative Journey on 3D Printed Coins](http://yc-chen.github.io/2016/03/05/Commemorative-3D-Coin-Journey.html)
